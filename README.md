@@ -1,1 +1,3 @@
-# Label_Predictions_using_NLP_and_Wide-Deep_Learning_Model
+Internship Project Portfolio
+
+Project Description: This project seeks to use NLP to analyse unstructured texts and apply Wide & Deep learning model (TF-IDF Vectorizer + LSTM/ SimpleRNN) to predict labels.
